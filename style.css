@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F4F4F4;
+}
+/* Barra de titulo*/
+.barra-titulo {
+    background-color: red;
+    color: #ece008;
+    padding: 40px;
+    text-align: center;
+    
+}
+.barra-titulo h1 {
+    margin: 0;
+    text-transform: uppercase;
+    
+}
